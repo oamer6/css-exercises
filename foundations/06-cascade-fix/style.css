@@ -3,7 +3,7 @@
   color: hsl(0, 100%, 50%);
 }
 
-.para small-para {
+p.small-para {
   font-size: 12px;
 }
 
@@ -29,7 +29,7 @@
   font-size: 14px;
 }
 
-.text child {
+.text .child {
   color: red;
   font-size: 28px;
 }
